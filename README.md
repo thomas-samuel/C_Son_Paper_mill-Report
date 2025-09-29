@@ -44,4 +44,4 @@ This project analyzes procurement, production efficiency, and pricing strategies
 
 ## Impact
 
-The analysis demonstrated how **structured data cleaning + applied economic reasoning** can directly inform business strategy. The recommended changes led to an estimated **4% increase in profitability**, highlighting the value of data-driven decision-making in manufacturing and supply chains.
+The analysis demonstrated how **structured data cleaning + applied economic reasoning** can directly inform business strategy. The recommended changes led to **~4% increase in profitability**, highlighting the value of data-driven decision-making in manufacturing and supply chains.
